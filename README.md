@@ -1,6 +1,6 @@
 Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> <br> 
 
-I’m <a href='https://krishnaprasath.vercel.app/'> Krishnaprasath, a front-end web developer and UI/UX designer from India.
+I’m <a href='https://krishnaprasath.vercel.app/'> Krishnaprasath, </a> a front-end web developer and UI/UX designer from India.
 
 I love crafting sleek, responsive, and intuitive user interfaces that help products stand out.
 
