@@ -8,4 +8,4 @@ Outside of VS Code and Figma, you’ll find me at hackathons, talking about tech
 
 Fun-fact:
 1) While building a website, I deleted the entire folder over 10 times because I couldn't achieve the design or animation I wanted, so I kept redoing it from scratch.
-2) I talk about tech a lot, so much that it practically makes me a certified <s> developer </s> yapper.
+2) I talk about tech a lot, so much that it practically makes me a certified <s> developer </s>   yapper.
