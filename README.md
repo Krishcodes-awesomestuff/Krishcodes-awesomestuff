@@ -18,3 +18,10 @@ A **Web Developer** and **UI Designer** from 🇮🇳 who loves building stuff e
 - 🔍 Exploring micro-interactions, motion UI & component reusability
 
 ---
+
+## 🌠 Signature Quote
+
+> *"Details matter, it’s worth waiting to get it right."*  
+> <p align="right"><i>— Steve Jobs</i></p>
+
+---
