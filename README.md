@@ -10,8 +10,6 @@
 </p>
 </p>
 
----
-
 ## Who Am I?
 
 A **Web Developer** and **UI Designer** from 🇮🇳 who loves building stuff end to end stuff with an eye for smooth web experience, responsive Interfaces and scalable backend. I enjoy experimenting, shipping real things, and improving how people experience the web. Oh, and **DSA** keeps my brain in shape.
