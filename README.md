@@ -19,7 +19,7 @@ A **Web Developer** and **UI Designer** from 🇮🇳 who loves building stuff e
 
 ---
 
-## 🌠 Signature Quote
+## 🌠 Quote of the century!
 
 > *"Details matter, it’s worth waiting to get it right."*  
 > <p align="right"><i>— Steve Jobs</i></p>
