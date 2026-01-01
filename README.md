@@ -25,3 +25,9 @@ A **Web Developer** and **UI Designer** from 🇮🇳 who loves building stuff e
 > <p align="right"><i>— Steve Jobs</i></p>
 
 ---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgress,git,github,vscode,figma" />
+</p>
