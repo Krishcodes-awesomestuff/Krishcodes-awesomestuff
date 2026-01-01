@@ -31,3 +31,10 @@ A **Web Developer** and **UI Designer** from 🇮🇳 who loves building stuff e
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github,vscode,figma" />
 </p>
+
+<h2 align="center">🏆 GitHub Highlights</h2>
+<p align="center"><i>Celebrating my open-source journey and milestones!</i></p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Krishcodes-awesomestuff&theme=github&column=10&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="140" alt="trophy graph" />
+</p>
