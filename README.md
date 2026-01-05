@@ -29,5 +29,5 @@ A **Web Developer** and **UI Designer** from 🇮🇳 who loves building stuff e
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,verilog,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,java,git,github,vscode,figma" />
 </p>
